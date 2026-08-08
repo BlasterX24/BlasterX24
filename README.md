@@ -21,7 +21,9 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
 
 ---
 
-## 💻 Programming Languages
+## 💻 Languages & Arsenal
+
+**Programming languages:**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="52" />
@@ -30,6 +32,32 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
   <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="52" />
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" alt="SQL" width="52" />
   <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" alt="PowerShell" width="52" />
+</p>
+
+**Platforms & toolkit:**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux / Kali / Parrot / Arch / Red Hat / Ubuntu" alt="Linux" width="52" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="52" />
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="52" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="52" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="52" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="52" />
+</p>
+
+**Security tools:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682b4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-ff6f00?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nikto-8b0000?style=for-the-badge&logo=chromium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-e6334c?style=for-the-badge&logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/nuclei-00add8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amass-6c5ce7?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subfinder-00c7b7?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ---
@@ -45,32 +73,6 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
 | **SIEM & Monitoring** | Splunk · ELK Stack · IBM QRadar · Wazuh · Threat Hunting |
 | **Cloud Security** | AWS IAM · S3 · EC2 Hardening · CSPM · Azure Basics |
 | **Network Security** | Packet Analysis · IDS/IPS · Firewalls · VPN · DNS · Snort |
-
----
-
-## 🛠️ My Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux / Kali / Parrot / Arch / Red Hat / Ubuntu" alt="Linux" width="52" />
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="52" />
-  <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="52" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="52" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="52" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="52" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682b4?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-ff6f00?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nikto-8b0000?style=for-the-badge&logo=chromium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shodan-e6334c?style=for-the-badge&logo=shodan&logoColor=white" />
-  <img src="https://img.shields.io/badge/nuclei-00add8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amass-6c5ce7?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Subfinder-00c7b7?style=for-the-badge&logo=go&logoColor=white" />
-</p>
 
 ---
 
