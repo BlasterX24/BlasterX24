@@ -24,7 +24,12 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
 ## 💻 Programming Languages
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,javascript,php,mysql,powershell,linux,aws,azure,docker&perline=10" alt="Languages" /></a>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="52" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell" alt="Bash" width="52" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="52" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="52" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" alt="SQL" width="52" />
+  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" alt="PowerShell" width="52" />
 </p>
 
 ---
@@ -34,9 +39,9 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
 | Category | Skills |
 |----------|--------|
 | **Penetration Testing** | Web App · Network · API · Mobile (Android/iOS) · Cloud · Social Engineering |
-| **OSINT & Recon** | Shodan · Maltego · theHarvester · Recon-ng · Subfinder · Amass · WHOIS · Google Dorking |
+| **OSINT & Recon** | Open-Source Intelligence · Google Dorking · WHOIS |
 | **Vulnerability Assessment** | OWASP Top 10 · CVE Research · CVSS · PoC Dev · Exploit-DB |
-| **Threat Intelligence** | MITRE ATT&CK · STIX/TAXII · IOC Analysis · VirusTotal · ThreatConnect |
+| **Threat Intelligence** | MITRE ATT&CK · STIX/TAXII · IOC Analysis |
 | **SIEM & Monitoring** | Splunk · ELK Stack · IBM QRadar · Wazuh · Threat Hunting |
 | **Cloud Security** | AWS IAM · S3 · EC2 Hardening · CSPM · Azure Basics |
 | **Network Security** | Packet Analysis · IDS/IPS · Firewalls · VPN · DNS · Snort |
@@ -46,7 +51,12 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
 ## 🛠️ My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,bash,git,github,regex&perline=8" alt="Core toolkit" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux / Kali / Parrot / Arch / Red Hat / Ubuntu" alt="Linux" width="52" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="52" />
+  <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="52" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="52" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="52" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="52" />
 </p>
 
 <p align="center">
