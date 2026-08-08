@@ -1,65 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm Umesh `(BlasterX24)`
+# 👋 Hey, I'm **Umesh** `(BlasterX24)`
 
-### Security Analyst · Bug Bounty Hunter · Offensive Security Researcher
+### 🔐 Security Analyst · Bug Bounty Hunter · Offensive Security Researcher
 
-> Security Analyst with **3+ years** of experience in vulnerability assessment, web app security testing, incident analysis & security monitoring.
+> *"Find it. Fix it. Disclose it responsibly."* — 3+ years hunting real vulnerabilities and helping teams build back safer.
 
-[![](https://img.shields.io/badge/Security%20Analyst-3%2B%20years-1f6feb?style=flat-square&logo=shield)](#)
-[![](https://img.shields.io/badge/Bug%20Hunter-HackerOne%20%26%20Bugcrowd-0d7d36?style=flat-square&logo=bug)](#)
-[![](https://img.shields.io/badge/Red%20Team-MITRE%20ATT%26CK-e11d48?style=flat-square)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
 
 ---
 
-### 🛡️ About Me
-I assess web apps, APIs, networks, mobile & cloud environments — find real vulnerabilities, validate them, and help teams fix them for good. Every finding is turned into a clear, actionable report.
+## 🛡️ About Me
+I assess **web apps, APIs, networks, mobile & cloud environments** — find real vulnerabilities, validate them, and turn every finding into a clear, actionable report.
 
 - 🔍 **100+ high/critical** vulnerabilities identified & validated
 - 🐞 **40+ valid bugs** responsibly disclosed (HackerOne / Bugcrowd)
 - 🏆 **Hall of Fame** recognition from 5+ organizations
 
-### 🧰 Skills
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,javascript,php,mysql,powershell,linux,aws,azure,docker&perline=10" alt="Languages" /></a>
+</p>
+
+---
+
+## 🧰 Core Skills
 
 | Category | Skills |
 |----------|--------|
-| **Penetration Testing** | Web App, Network, API, Mobile (Android/iOS), Cloud, Social Engineering |
-| **OSINT & Recon** | Shodan, Maltego, theHarvester, Recon-ng, Subfinder, Amass, WHOIS, Google Dorking |
-| **Vuln Assessment** | OWASP Top 10, CVE Research, CVSS, PoC Dev, Exploit-DB, Zero-Day Analysis |
-| **Threat Intel** | MITRE ATT&CK, STIX/TAXII, IOC Analysis, VirusTotal, ThreatConnect |
-| **SIEM & Monitoring** | Splunk, ELK Stack, IBM QRadar, Wazuh, Threat Hunting |
-| **Cloud Security** | AWS IAM, S3 Security, EC2 Hardening, CSPM, Azure Basics |
-| **Network Security** | Packet Analysis, IDS/IPS, Firewall Rules, VPN, DNS, Snort |
-| **Programming** | Python, Bash/Shell, JavaScript, PHP, SQL, PowerShell |
+| **Penetration Testing** | Web App · Network · API · Mobile (Android/iOS) · Cloud · Social Engineering |
+| **OSINT & Recon** | Shodan · Maltego · theHarvester · Recon-ng · Subfinder · Amass · WHOIS · Google Dorking |
+| **Vulnerability Assessment** | OWASP Top 10 · CVE Research · CVSS · PoC Dev · Exploit-DB |
+| **Threat Intelligence** | MITRE ATT&CK · STIX/TAXII · IOC Analysis · VirusTotal · ThreatConnect |
+| **SIEM & Monitoring** | Splunk · ELK Stack · IBM QRadar · Wazuh · Threat Hunting |
+| **Cloud Security** | AWS IAM · S3 · EC2 Hardening · CSPM · Azure Basics |
+| **Network Security** | Packet Analysis · IDS/IPS · Firewalls · VPN · DNS · Snort |
 
-### 🛠️ Tools
-`Burp Suite` · `Metasploit` · `Nmap` · `Nessus` · `Wireshark` · `Nikto` · `SQLMap` · `Subfinder` · `Amass` · `nuclei`
+---
 
-**OS:** Kali Linux · Parrot OS · Arch Linux · Red Hat · Ubuntu · Windows · macOS
+## 🛠️ My Arsenal
 
-### 💼 Experience
-- **Security Analyst** — Jinvani Media and Entertainment (Remote, Germany) `2025–Present`
-- **Junior Security Analyst** — We Digital Enterpreneur (Remote) `2023–2025`
-- **Bug Bounty Hunter** — HackerOne / Bugcrowd `2022–Present`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,bash,git,github,regex&perline=8" alt="Core toolkit" />
+</p>
 
-### 📜 Certifications
-`RHSCA — Red Hat Certified System Administrator` · `Star Ethical Hacking Expert (EHE)`
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682b4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-ff6f00?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nikto-8b0000?style=for-the-badge&logo=chromium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-e6334c?style=for-the-badge&logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/nuclei-00add8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amass-6c5ce7?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subfinder-00c7b7?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-### 🎓 Education
-**B.E. Computer Science** — Rabindranath Tagore University, Bhopal (2022)
+---
 
-### 🌍 Languages
-English · Hindi · Marathi
+## 💼 Experience
 
-### 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlasterX24&show_icons=true&theme=dark&hide_border=true)](https://github.com/BlasterX24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlasterX24&layout=compact&theme=dark&hide_border=true)](https://github.com/BlasterX24)
+- 🛡️ **Security Analyst** — Jinvani Media and Entertainment · Remote, Germany `2025 – Present`
+- 🧪 **Junior Security Analyst** — We Digital Enterpreneur · Remote `2023 – 2025`
+- 🐞 **Bug Bounty Hunter** — HackerOne / Bugcrowd `2022 – Present`
 
-### 📫 Let's Connect
-- 💼 LinkedIn: [umeshpaytode](https://www.linkedin.com/in/umeshpaytode)
-- ✉️ Email: [umeshpaytode@gmail.com](mailto:umeshpaytode@gmail.com)
+## 🎓 Education & Certs
+
+- 🎓 **B.E. Computer Science** — Rabindranath Tagore University, Bhopal (2022)
+- 📜 **RHSCA** — Red Hat Certified System Administrator
+- 📜 **Star Ethical Hacking Expert (EHE)**
+
+## 🌍 Languages
+
+🇬🇧 English · 🇮🇳 Hindi · 🇮🇳 Marathi
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlasterX24&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlasterX24&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umeshpaytode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:umeshpaytode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/BlasterX24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bug%20Bounty-Responsible%20Disclosure-0d7d36?style=for-the-badge&logo=bug&logoColor=white" /></a>
+</p>
 
 ---
 
