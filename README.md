@@ -15,6 +15,8 @@
 ## 🛡️ About Me
 Security Analyst with **3+ years** across vulnerability assessment, web application security testing, incident analysis, and security monitoring. I identify and validate exploitable flaws in web apps, APIs, networks, and cloud — then work with teams to remediate them properly. Experienced with Burp Suite, SQLMap, and vulnerability scanners, with strong command of the OWASP Top 10 and security best practices. Beyond assessments, I hunt bugs on HackerOne and Bugcrowd, and build custom automation (Python/Bash) to make recon and reporting faster.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=90&section=footer" width="100%"/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/100%2B-Bugs%20Found-e11d48?style=for-the-badge" />
   <img src="https://img.shields.io/badge/50%2B-Hall%20of%20Fame-eab308?style=for-the-badge" />
