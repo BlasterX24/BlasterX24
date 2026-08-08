@@ -13,7 +13,7 @@
 ---
 
 ## 🛡️ About Me
-Professional finder of things that shouldn't be there. I break web apps, APIs, and clouds so you don't have to — then hand you a report you'll actually read. Yes, your SQLi is real. No, "try harder" isn't a fix. Specialized in **IDOR & SSRF** — I'll find the object you forgot to authorize and the server you forgot to firewall. 3+ years of turning OWASP Top 10 into patch tickets and bug bounty badges.
+Professional finder of things that shouldn't be there. I break web apps, APIs, and clouds so you don't have to — then hand you a report you'll actually read. Give me an API and I'll hand back a list of authorization gaps. Specialized in **IDOR & SSRF** — I'll find the object you forgot to authorize and the server you forgot to firewall. 3+ years of turning OWASP Top 10 into patch tickets and bug bounty badges.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=90&section=footer" width="100%"/>
 
@@ -100,8 +100,7 @@ Professional finder of things that shouldn't be there. I break web apps, APIs, a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlasterX24&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlasterX24&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=BlasterX24&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -112,7 +111,6 @@ Professional finder of things that shouldn't be there. I break web apps, APIs, a
   <a href="https://www.linkedin.com/in/umeshpaytode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:umeshpaytode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/BlasterX24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bug%20Bounty-Responsible%20Disclosure-0d7d36?style=for-the-badge&logo=bug&logoColor=white" /></a>
 </p>
 
 ---
