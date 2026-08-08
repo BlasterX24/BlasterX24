@@ -13,11 +13,14 @@
 ---
 
 ## 🛡️ About Me
-I assess **web apps, APIs, networks, mobile & cloud environments** — find real vulnerabilities, validate them, and turn every finding into a clear, actionable report.
+I hunt bugs in web apps, APIs, mobile & cloud — find what's actually exploitable, validate it, and hand teams fixes they can act on. Every engagement ends with a clear report and a safer product.
 
-- 🔍 **100+ high/critical** vulnerabilities identified & validated
-- 🐞 **40+ valid bugs** responsibly disclosed (HackerOne / Bugcrowd)
-- 🏆 **Hall of Fame** recognition from 50+ organizations
+<p align="center">
+  <img src="https://img.shields.io/badge/100%2B-High%2FCritical%20Vulns-e11d48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/40%2B-Valid%20Bugs%20Disclosed-0d7d36?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/50%2B-Hall%20of%20Fame-eab308?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3%2B-Years%20Experience-1f6feb?style=for-the-badge" />
+</p>
 
 ---
 
