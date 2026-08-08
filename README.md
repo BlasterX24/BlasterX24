@@ -13,7 +13,7 @@
 ---
 
 ## 🛡️ About Me
-Professional finder of things that shouldn't be there. I break web apps, APIs, and clouds so you don't have to — then hand you a report you'll actually read. Yes, your SQLi is real. No, "try harder" isn't a fix. 3+ years of turning OWASP Top 10 into patch tickets and bug bounty badges.
+Professional finder of things that shouldn't be there. I break web apps, APIs, and clouds so you don't have to — then hand you a report you'll actually read. Yes, your SQLi is real. No, "try harder" isn't a fix. Specialized in **IDOR & SSRF** — I'll find the object you forgot to authorize and the server you forgot to firewall. 3+ years of turning OWASP Top 10 into patch tickets and bug bounty badges.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=90&section=footer" width="100%"/>
 
