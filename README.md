@@ -17,7 +17,7 @@ I assess **web apps, APIs, networks, mobile & cloud environments** — find real
 
 - 🔍 **100+ high/critical** vulnerabilities identified & validated
 - 🐞 **40+ valid bugs** responsibly disclosed (HackerOne / Bugcrowd)
-- 🏆 **Hall of Fame** recognition from 5+ organizations
+- 🏆 **Hall of Fame** recognition from 50+ organizations
 
 ---
 
