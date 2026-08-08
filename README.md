@@ -105,15 +105,6 @@ Professional finder of things that shouldn't be there. I break web apps, APIs, a
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://github.com/BlasterX24/BlasterX24/raw/main/UMESH_PAYTODE_Security_Analyst.docx"><img src="https://img.shields.io/badge/Download%20Resume-%23D14836?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a href="https://github.com/BlasterX24/BlasterX24/blob/main/UMESH_PAYTODE_Resume.md"><img src="https://img.shields.io/badge/View%20as%20Markdown-0A66C2?style=for-the-badge&logo=markdown&logoColor=white" /></a>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
