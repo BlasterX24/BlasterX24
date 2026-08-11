@@ -93,7 +93,7 @@ Professional finder of things that shouldn't be there. I break web apps, APIs, a
 
 ## 🌍 Languages
 
-🇬🇧 English · 🇮🇳 Hindi · 🇮🇳 Marathi
+ English · Hindi · Marathi
 
 ---
 
